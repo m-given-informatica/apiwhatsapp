@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Sebastian",
+      "image": "https://dfilitto.com.br/wp-content/uploads/2020/03/logo-menor.png"
+    },
+    {
+      "id": 2,
+      "name": "Steve",
+      "image": "https://dfilitto.com.br/wp-content/uploads/2020/03/logo-menor.png"
+    },
+    {
+      "name": "teste",
+      "image": "https://dfilitto.com.br/wp-content/uploads/2020/03/logo-menor.png",
+      "id": 4
+    }
+  ]
+}
